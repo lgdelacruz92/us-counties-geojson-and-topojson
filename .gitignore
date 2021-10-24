@@ -1,0 +1,9 @@
+geo-albers-id.ndjson
+*.zip
+geoData.json
+geo-albers.ndjson
+geo-albers.json
+geo-quantized-topo.json
+geo-simple-topo.json
+geo-tracts-topo.json
+.DS_Store
