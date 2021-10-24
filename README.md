@@ -9,7 +9,9 @@ This repo has all the TopoJSON and GeoJSON for all US States.
 **How find the file you want**
 
 `{state_name}`>`geo-county-min-topojson-#.json` (TopoJSON file)
+
 `{state_name}`>`geo-county-min-#.json` (GeoJSON file)
+
 example: `Alabama > geo-county-min-0.json` is  NAD83 / Alabama East (EPSG:26929) projection of Alabama counties 960x960
 
 **What does the `#` represent?**
